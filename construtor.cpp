@@ -6,7 +6,7 @@ using namespace std;
 class myClass{
 public:
     myClass(){ //constructor
-    cout<<"That's The constructor";
+    cout<<"That's The constructor"<<endl;
     };
 };
 
